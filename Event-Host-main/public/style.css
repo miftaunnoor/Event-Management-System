@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(129, 200, 241);
+}
+
+.row{
+    margin-top: 3%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.col-lg-3{
+    margin-bottom: 3%;
+}
+
+.loginbtn{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
